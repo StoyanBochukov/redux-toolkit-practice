@@ -1,0 +1,11 @@
+{
+  "name": "redux-toolkit-support-desc-app",
+  "version": "1.0.0",
+  "description": "Support ticket app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Stoyan Bochukov",
+  "license": "MIT"
+}
